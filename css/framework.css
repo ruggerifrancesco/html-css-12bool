@@ -1,0 +1,4 @@
+/* Reset col flex Rule */
+[class*"col-"] {
+    flex: 0 0 auto;
+}
