@@ -6,6 +6,14 @@
 }
 
 /* CSS STYLE BEGIN */
+section {
+    margin: 1rem 0;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
 .col {
     background-color: #006cfa;
     color: white;
