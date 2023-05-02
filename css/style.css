@@ -4,3 +4,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* CSS STYLE BEGIN */
+.col {
+    background-color: #006cfa;
+}
+
+.inner-col {
+    background-color: #01e165;
+}
