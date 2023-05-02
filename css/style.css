@@ -10,10 +10,15 @@
     background-color: #006cfa;
     color: white;
     padding: 1rem 0;
-    border: 1px solid white;
 }
 
 .inner-col {
     background-color: #01e165;
     color: white;
+    padding: 1rem 0;
+}
+
+/* Framework Small Encounters */
+.section-row:nth-child(7) > .col {
+    padding: 1rem;
 }
