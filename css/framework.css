@@ -10,6 +10,10 @@
     justify-content: center;
 }
 
+.gap {
+    margin: 0 2px;
+}
+
 /* Row Controller */
 .section-row {
     display: flex;
@@ -78,9 +82,52 @@
     max-width: calc((100% / 12) * 12 - 4px);
 }
 
-.gap {
-    margin: 0 2px;
-}
-
 
 /* Offset Library */
+.col-offset-1 {
+    margin-left: calc((100% / 12) * 1 + 2px);
+}
+
+.col-offset-2 {
+    margin-left: calc((100% / 12) * 2 + 2px);
+}
+
+.col-offset-3 {
+    margin-left: calc((100% / 12) * 3 + 2px);
+}
+
+.col-offset-4 {
+    margin-left: calc((100% / 12) * 4 + 2px);
+}
+
+.col-offset-5 {
+    margin-left: calc((100% / 12) * 5 + 2px);
+}
+
+.col-offset-6 {
+    margin-left: calc((100% / 12) * 6 + 2px);
+}
+
+.col-offset-7 {
+    margin-left: calc((100% / 12) * 7 + 2px);
+}
+
+.col-offset-8 {
+    margin-left: calc((100% / 12) * 8 + 2px);
+}
+
+.col-offset-9 {
+    margin-left: calc((100% / 12) * 9 + 2px);
+}
+
+.col-offset-10 {
+    margin-left: calc((100% / 12) * 10 + 2px);
+}
+
+.col-offset-11 {
+    margin-left: calc((100% / 12) * 11 + 2px);
+}
+
+/* Note that the +2px and -4px ar due */
+/* to the .gap rule for dividing the blocks */
+/* Just basic math */
