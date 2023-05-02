@@ -18,16 +18,14 @@ h2 {
     background-color: #006cfa;
     color: white;
     height: 50px;
+    border: 2px solid white;
 }
 
 .inner-col {
     background-color: #01e165;
     color: white;
     height: 50px;
-}
-
-.row {
-    margin-top: 3px;
+    border: 2px solid #006cfa;
 }
 
 /* Framework Small Encounters */
