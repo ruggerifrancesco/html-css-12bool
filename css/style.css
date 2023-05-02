@@ -26,6 +26,10 @@ h2 {
     height: 50px;
 }
 
+.row {
+    margin-top: 3px;
+}
+
 /* Framework Small Encounters */
 #inner-row > .col {
     height: 80px;

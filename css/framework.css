@@ -15,15 +15,10 @@
 }
 
 /* Row Controller */
-.section-row {
+.row {
     display: flex;
     flex-wrap: wrap;
-    margin-top: 3px;
-}
-
-.inner-row {
-    display: flex;
-    flex-wrap: wrap;
+    width: 100%;
 }
 
 /* Col General Library*/
