@@ -19,7 +19,7 @@
 }
 
 /* Framework Small Encounters */
-.section-row:nth-child(7) > .col {
+#inner-row > .col {
     height: 80px;
     padding: 0 1rem;
 }
