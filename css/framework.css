@@ -3,6 +3,19 @@
     flex: 0 0 auto;
 }
 
+/* Utilities */
+.text-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Row Controller */
+.section-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 /* Col General Library*/
 .col-1 {
     flex-basis: calc((100% / 12) * 1);
