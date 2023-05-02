@@ -21,6 +21,11 @@
     margin-top: 3px;
 }
 
+.inner-row {
+    display: flex;
+    flex-wrap: wrap;
+}
+
 /* Col General Library*/
 .col-1 {
     flex-basis: calc((100% / 12) * 1 - 4px);
