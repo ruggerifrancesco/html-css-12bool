@@ -9,16 +9,17 @@
 .col {
     background-color: #006cfa;
     color: white;
-    padding: 1rem 0;
+    height: 50px;
 }
 
 .inner-col {
     background-color: #01e165;
     color: white;
-    padding: 1rem 0;
+    height: 50px;
 }
 
 /* Framework Small Encounters */
 .section-row:nth-child(7) > .col {
-    padding: 1rem;
+    height: 80px;
+    padding: 0 1rem;
 }
